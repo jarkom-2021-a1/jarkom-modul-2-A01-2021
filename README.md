@@ -118,7 +118,7 @@ Langkah - langkah :
 
 ### 5 Supaya tetap bisa menghubungi Franky jika server EniesLobby rusak, maka buat Water7 sebagai DNS Slave untuk domain utama
 Langkah - langkah :
-- Pada enieslobby, ubah file ```/etc/bind/named.conf.local``` seperti berikut :
+- Pada enieslobby, ubah file ```/etc/bind/named.conf.local``` seperti berikut :  
 ![1](https://user-images.githubusercontent.com/65168221/139439719-8d7ca7a5-1cd3-4fae-b0c3-c4eb59489b73.png)
 
 
@@ -126,7 +126,7 @@ Langkah - langkah :
 Pada water7, jalankan
 - ```apt-get update```
 - ```apt-get install bind9 -y```
-- Ubah file ```/etc/bind/named.conf.local``` seperti berikut :
+- Ubah file ```/etc/bind/named.conf.local``` seperti berikut :  
 ![2](https://user-images.githubusercontent.com/65168221/139439724-b828de1d-a7ad-4faf-9dd9-1b9c500ec476.png)
 
 
