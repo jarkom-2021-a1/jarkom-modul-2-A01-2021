@@ -1,4 +1,4 @@
-# jarkom-modul-1-a01-2021
+# jarkom-modul-2-a01-2021
 
 # Anggota kelompok A1 :
 - 05111940000083 Fajar Satria
