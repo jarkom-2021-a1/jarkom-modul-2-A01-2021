@@ -258,7 +258,8 @@ gambar 1
 Langkah - langkah :
 - Pindah ke direktori ```/etc/apache2/sites-available```
 - Edit file ```super.franky.A01.com.conf``` seperti berikut :  
-![1](https://user-images.githubusercontent.com/65168221/139446713-a8dde1ae-4b14-4bc6-839b-b34e78fdc50e.png)
+![Screenshot 2021-10-30 171337](https://user-images.githubusercontent.com/65168221/139528988-35e3230f-1f8e-46a7-aaf5-4ba5df9d0afe.png)
+
 
 - Restart service, ```service apache2 restart```
 - Pada loguetown, coba ```lynx www.super.franky.A01.com/errorhehe```  
