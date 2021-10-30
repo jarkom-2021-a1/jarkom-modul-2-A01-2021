@@ -354,11 +354,11 @@ Langkah - langkah :
 
 
 Kendala : 
-- a
-- a
-- a
+- masih sering terbalik2 memasukan setting, karena banyak nya nodes, dan file yang di edit juga banyak
+- sering lupa restart service
+- saat memindah atau mengirim file, sering terjadi keanehan, misal perubahan config file sampai ke topologi yang tidak sesuai
+- 
 
 Pembagian Tugas :
-- a
-- a
-- a
+- Gerry: mengerjakan nomor 1-9
+- Adrian: mengerjakan nomor 10-17
