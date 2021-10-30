@@ -357,7 +357,7 @@ Kendala :
 - masih sering terbalik2 memasukan setting, karena banyak nya nodes, dan file yang di edit juga banyak
 - sering lupa restart service
 - saat memindah atau mengirim file, sering terjadi keanehan, misal perubahan config file sampai ke topologi yang tidak sesuai
-- 
+- agak kesusahan ketika melakukan backup dan restore
 
 Pembagian Tugas :
 - Gerry: mengerjakan nomor 1-9
