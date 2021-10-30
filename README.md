@@ -358,6 +358,7 @@ Kendala :
 - sering lupa restart service
 - saat memindah atau mengirim file, sering terjadi keanehan, misal perubahan config file sampai ke topologi yang tidak sesuai
 - agak kesusahan ketika melakukan backup dan restore
+- kepadatan jadwal dan kurangnya komunikasi salah satu anggota kelompok membuat beban kerja tim menjadi tidak rata
 
 Pembagian Tugas :
 - Gerry: mengerjakan nomor 1-9
